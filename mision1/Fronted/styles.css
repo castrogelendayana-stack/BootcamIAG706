@@ -1,0 +1,19 @@
+ body{
+    background: rgba(214, 176, 230, 0.826);
+
+ }
+ .estilo_h1{
+    color:rgb(66, 63, 63);
+
+ }
+ .estilo_h2{
+    color:blue;
+ }
+ .gato_gif{
+    width: 11%;
+    height: 11%;
+ }
+ .video_gato {
+    width: 20%;
+    height: 10%;
+ }
