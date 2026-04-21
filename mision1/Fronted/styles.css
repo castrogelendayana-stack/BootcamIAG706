@@ -10,10 +10,19 @@
     color:blue;
  }
  .gato_gif{
+   border-radius:  8px;
+   box-shadow: 0 20px 6px rgba(0,0,0,0.6);
     width: 11%;
     height: 11%;
  }
  .video_gato {
+   border-radius:  8px;
+   box-shadow: 0 20px 6px rgba(0,0,0,0.6);
     width: 20%;
     height: 10%;
+ }
+ .gato{
+   border-radius:  8px;
+   box-shadow: 0 20px 6px rgba(0,0,0,0.6);
+
  }
