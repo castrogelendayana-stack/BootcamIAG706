@@ -31,4 +31,8 @@ activarlo  ``env312\scripts\activate``
 pandas -> manejo de datos  `pip install pandas`
 numpy -> cálculo matemático `pip install  numpy`
 matplolib ->gráficos `pip install matplotlib`
-
+crear
+ pip freeze > requirements.txt
+ instalar
+ pip install -r requirements.txt
+ 
