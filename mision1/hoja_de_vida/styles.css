@@ -1,4 +1,7 @@
 .bg-primary{
-    background-color: #c672db !important;
+    background-color: #5c4c60 !important;
     
+}
+.progress{
+    background-color: rgba(255, 255, 255, 0.2)!important; 
 }
